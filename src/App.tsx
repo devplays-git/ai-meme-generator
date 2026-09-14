@@ -49,7 +49,7 @@ export default function App() {
       </main>
 
       <footer className="app-footer">
-        Built for the Naukri AI Bootcamp · Captions by AI via OpenRouter · Images by memegen.link
+        Captions by AI via OpenRouter · Images by memegen.link
       </footer>
     </div>
   )
